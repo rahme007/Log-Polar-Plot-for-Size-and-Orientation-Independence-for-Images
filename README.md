@@ -8,7 +8,9 @@ The project deals with the several aspects:
 <li> Quantify (or find a way to gauge) what happened in the log-polar plots to express the degree of rotation and the extent of translation. </li>
 </ul>
 <br>
+
 ## Log-Polar plot for Translated Image 
+
 <br>
 The problem is first approached by a translated image with leaning tower of Italy image.
 
